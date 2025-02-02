@@ -8,6 +8,7 @@ Insert your API Key into the .env file. See the .env.example file as an example.
 ```bash
 git clone git@github.com:pskirde/claudius.git
 cd claudius
+npm install
 npm run dev --turbopack
 ```
 
