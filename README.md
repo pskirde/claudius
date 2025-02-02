@@ -1,5 +1,8 @@
-## Getting Started
+# Claudius - A claude 3.5 sonnet UI and API
 
+![Claudius Screenshot](claudius_screenshot.png)
+
+## Getting Started
 Run the server locally.
 
 Get yourself an API Key from Anthropic here: [Anthropic Console](https://console.anthropic.com/dashboard)
